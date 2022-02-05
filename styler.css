@@ -113,7 +113,7 @@
     border-style: ridge;
     border-color: gray;
     border-radius: 2px;
-    width: 200vw;
+    max-width: 20vw;
     justify-content: center;
 
 }
